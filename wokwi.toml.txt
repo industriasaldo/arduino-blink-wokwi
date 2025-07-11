@@ -1,0 +1,2 @@
+[target]
+filename = "https://raw.githubusercontent.com/industriasaldo/arduino-blink-wokwi/main/firmware.hex"
